@@ -24,10 +24,10 @@ const Home = () => {
             <FaHome className="text-2xl" />
             {isSidebarOpen && <Link to="/" className="text-lg font-medium">Homepage</Link>}
           </li>
-          <li className="flex items-center space-x-4 p-5 cursor-pointer hover:text-[#EFA593]">
+          {/*<li className="flex items-center space-x-4 p-5 cursor-pointer hover:text-[#EFA593]">
             <FaRobot className="text-2xl" />
             {isSidebarOpen && <Link to="/Pricing" className="text-lg font-medium">Bot Ragnarok</Link>}
-          </li>
+          </li>*/}
         </ul>
       </div>
 
