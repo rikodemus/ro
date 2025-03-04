@@ -35,7 +35,7 @@ const Home = () => {
       <div className="flex-1 flex flex-col p-5">
         {/* Header */}
         <div className="bg-[#1E1E1E] p-6 rounded-lg shadow-lg text-center mb-6">
-          <h1 className="text-3xl font-bold">Light Hacks</h1>
+          <h1 className="text-3xl font-bold">Light Hack</h1>
         </div>
       </div>
     </div>
